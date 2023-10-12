@@ -4,8 +4,8 @@
 
 The sample data of asteroid rock have been tabulated in two csv files:
 1. 'Asteroid 1.csv'
-and
 2. 'Asteroid 2.csv'
+
 Data file (1) and (2) contain measurements from completely different groups of asteroids. No individual asteroid appears in both data files.
 
 ## Clustering
